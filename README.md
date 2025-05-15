@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tomas_fredes_logo_animated.gif" alt="Tomás Fredes Logo" width="300"/>
+  <img src="assets/logotomas.png" alt="Tomás Fredes Logo" width="300"/>
 </p>
 # Hi there 👋  
 ## I'm Tomás Fredes

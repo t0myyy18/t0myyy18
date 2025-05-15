@@ -2,6 +2,7 @@
   <img src="assets/logotomas.png" alt="Tomás Fredes Logo" width="300"/>
 </p>
 # Hi there 👋  
+<br>
 ## I'm Tomás Fredes
 
 ---

@@ -1,9 +1,9 @@
 <p align="center">
   <img src="assets/logotomas.png" alt="Tomás Fredes Logo" width="300"/>
 </p>
-# Hi there 👋  
+<h1># Hi there 👋</h1>  
 <br>
-## I'm Tomás Fredes
+<h1>## I'm Tomás Fredes</h1>
 
 ---
 
